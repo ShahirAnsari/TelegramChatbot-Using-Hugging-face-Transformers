@@ -14,4 +14,4 @@ pip install transformers
 To install pytorch or tensorflow check respective guides <a href="https://pytorch.org/get-started/locally/"> Pytorch Installation </a> or <a href = "https://www.tensorflow.org/install">Tensorflow Installation Guide </a>
 <br>
 
-PS. You need to create your <a href = "https://telegram.me/BotFather">Telegram Bot </a> and get the <i>bot_token</i>
+PS. You need to create your <a href = "https://telegram.me/BotFather">Telegram Bot </a> and get the <i>bot_token</i> and replace it in the code.
