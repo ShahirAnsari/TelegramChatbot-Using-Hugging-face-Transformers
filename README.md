@@ -1,5 +1,5 @@
 # TelegramChatbot-Using-Hugging-face-Transformers
-This project uses Hugging Face Transformers model to reply to text messages recieved on Telegram Chatbot.
+This project uses <a href="https://huggingface.co/docs/transformers/main/en/index">Hugging Face Transformers</a> model to reply to text messages recieved on Telegram Chatbot.
 
 <b>Dependencies: </b><br>
 
